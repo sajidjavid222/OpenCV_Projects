@@ -1,7 +1,7 @@
 # OpenCV_Projects
 This OpenCV repo includes: 
-1.Image Loading 
-2.Image displaying 
-3.Resizing image(Symmetrical and Asymmetrical) 
-4.Video capturing 
-6.Color detection
+#1.Image Loading 
+#2.Image displaying 
+#3.Resizing image(Symmetrical and Asymmetrical) 
+#4.Video capturing 
+#6.Color detection
